@@ -27,7 +27,6 @@ public class SBATest {
 		SpringApplicationBuilder builder = new SpringApplicationBuilder();
 			
 			 builder.sources(SBAApplication.class);	
-		//ProjectMangementFinalApplication.configure(builder);
 	}
 	
 }
